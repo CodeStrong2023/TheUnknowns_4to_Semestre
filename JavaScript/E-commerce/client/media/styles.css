@@ -29,7 +29,6 @@
 .card-products button:hover {
     opacity: 0.7;
 }
-
 /*cart button*/
 .cart-btn{
     position: fixed;
@@ -47,6 +46,7 @@
     cursor: pointer;
     opacity: 0.9;
 }
+
 .cart-counter {
     display: none;
     position: fixed;
@@ -106,7 +106,8 @@
     text-align: center;
 }
 
-/*modal-body*/
+/*modal body*/
+
 .modal-body {
     margin-bottom: 20px;
     text-align: center;
@@ -142,8 +143,8 @@
     margin-right: 4em;
 }
 
-.quantity-btn-decrese,
-.quantity-btn-increse {
+.quantity-btn-decrease,
+.quantity-btn-increase {
     color: #333333;
     cursor: pointer;
     font-size: 16px;
@@ -165,15 +166,15 @@
         display: none;
     }
     .modal-body {
-        margin-left: 5px;
-        margin-right: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
     }
 }
 
 .price {
     font-size: 20px;
     font-weight: bold;
-    margin-top: 20px;
+    margin-top: 20px;  
 }
 
 .delete-product {
@@ -191,4 +192,25 @@
     font-weight: bold;
     margin-top: 20px;
     margin-bottom: 10px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px 16px;
+    text-transform: uppercase;
+    transition: background-color 0;
+    cursor: pointer;
+}
+
+.btn-primary:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+}
+
+#button-checkout{
+    z-index: 10;
 }
