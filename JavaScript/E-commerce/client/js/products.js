@@ -1,3 +1,4 @@
+// Json de productos para mostrar en la pagina principal
 const productos = [
     {
         id: 1,
