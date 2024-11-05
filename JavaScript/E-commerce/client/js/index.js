@@ -10,7 +10,6 @@ productos.forEach((product) =>{
     `;
     shopContent.append(content);
 
-    
     const buyButton = document.createElement("button");
     buyButton.innerText = "Comprar";
 
@@ -37,4 +36,4 @@ productos.forEach((product) =>{
             displayCartCouter();
         }
     });
-    });
+});
