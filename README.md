@@ -115,14 +115,17 @@ El método Scrum es un marco ágil utilizado para gestionar proyectos y desarrol
 
 <h2>Metodología de Trabajo </h2>
 
-La forma de trabajo que se maneja en el grupo consiste en que, cada integrante realiza las tareas que el profesor sube al campus, los dias Lunes corresponden a Laboratorio donde el lenguaje que vemos es Python y Javascript, y los dias Miercoles, la materia Programación donde el lenguaje es Java, en un repositorio propio. 
-Durante la semana se hace la reunión en la plataforma discord, y ahí se acuerda, por sorteo, quien será el scrum master de la semana y el órden de cómo se subirán los videos al repositorio del grupo.  
+La forma de trabajo que se maneja en el grupo consiste en que, cada integrante realiza las tareas que el profesor sube al campus, los dias Lunes corresponden a Laboratorio IV donde el lenguaje que vemos es Python y Javascript, y los dias Miercoles, la materia Metodologia de Sistemas I donde el lenguaje es Java y Node. 
+Durante la semana se hace la reunión en la plataforma discord, y ahí se acuerda, por sorteo, quien será el scrum master de la semana y el órden de cómo se subirán los videos al repositorio del grupo. Una vez que cada integrante tiene su tarea correspondiente se trabaja en conjunto para comenzar a subiendo los archivos a la rama test. 
+Cuando todos han finalizado, el scrum master se encarga de verificar que todo esté correcto, una vez realizada la revision procedera a realizar el pull requeste, terminando con un merge hacia la rama principal que en este caso es la Master. 
+La forma en la que se organizo el equipo este semestre fue la siguiente, al comienzo del semestre se repartian la cantidad de videos para cada uno. Luego de tener una reunion de grupo se llegó a la conclusión de que la mejor forma de trabajo sería diviendo los proyectos enteros, por lo que se cambio la metodología de trabajo. 
+A continuación dejamos una imagen donde se muestra el cronograma de trabajo, de las dos formas en las que se realizo, y con un código de colores donde se puede ver el trabajo que realizo cada persona.
 
 En la siguiente imagen se puede observar la forma de trabajo:
 
 <img src="https://github.com/CodeStrong2023/TheUnknowns_3er_Semestre/blob/Final/Tabla%20de%20scrum%20master.png?raw=true">
 
- Para más información, ir al link de la wiki: https://github.com/CodeStrong2023/TheUnknowns_3er_Semestre/wiki
+ Para más información, ir al link de la wiki: 
 
 Además, durante el cursado realizamos un juego llamado Avatar: La Leyenda de Aang, para el cual se puede ver la explicación del código en su página de la wiki: https://github.com/CodeStrong2023/TheUnknowns_3er_Semestre/wiki/Avatar-%E2%80%90-Juego
   
