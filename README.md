@@ -1,5 +1,5 @@
 <h1 align="center">THE UNKNOWNS</h1>
-<h2 align="center">Tercer Semestre</h2>
+<h2 align="center">Cuarto Semestre</h2>
 
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Integrantes+del+grupo+:&center=true&width=360&height=30">
@@ -7,33 +7,43 @@
 
 <img src="https://github.com/CodeStrong2023/TheUnknowns_3er_Semestre/blob/Final/photo-collage.png.png?raw=true">
 
-<table>
+<table align="center">
 <caption> <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Scrum+Master+De+La+Semana+:&center=true&width=360&height=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Organizacion+del+Scrum+Master+:&center=true&width=360&height=30" align="center">
 </p> </caption>
 <thead>
 <tr>
 <th colspan="2">Quick Info</th>
 </tr>
 </thead>
-<tbody>
-<tr><th scope='row'> MES </th><td align="center"> ABRIL </td></tr>
-<tr><th scope='row'>Semana 1</th><td> Juan Belich</td></tr>
-<tr><th scope='row'>Semana 2</th><td> Lautaro Ravanal </td></tr>
-<tr><th scope='row'>Semana 3</th><td> M. Sol Bilyk </td></tr>
-<tr><th scope='row'>Semana 4</th><td> Arturo Riera </td></tr>
-<tr><th scope='row'> MES </th><td align="center"> MAYO </td></tr>
-<tr><th scope='row'>Semana 5</th><td> Juan Belich </td></tr>
-<tr><th scope='row'>Semana 6</th><td> Lautaro Ravanal </td></tr>
-<tr><th scope='row'>Semana 7</th><td> M. Sol Bilyk </td></tr>
-<tr><th scope='row'>Semana 8</th><td> Arturo Riera </td></tr>
-<tr><th scope='row'>Semana 9</th><td> M. Sol Bilyk </td></tr>
-<tr><th scope='row'> MES </th><td align="center"> JUNIO </td></tr>
-<tr><th scope='row'>Semana 10</th><td> Arturo Riera </td></tr>
-<tr><th scope='row'>Semana 11</th><td> Juan Belich </td></tr>
-<tr><th scope='row'>Semana 12</th><td> Lautaro Ravanal </td></tr>
-</tbody>
 </table>
+  <div align="center">
+  <table>
+    <tbody align="center">
+      <tr><th scope="row">MES</th><td align="center"><b>AGOSTO</td></tr>
+      <tr><th scope="row">Semana 1</th><td>M. Sol Bilyk</td></tr>
+      <tr><th scope="row">Semana 2</th><td>Arturo Riera</td></tr>
+      <tr><th scope="row">Semana 3</th><td>Juan Belich</td></tr>
+      <tr><th scope="row">PROYECTOS</th><td align="center"><b>JAVA</td></tr>
+      <tr><th scope="row">Aplicacion Sistema de Estudiantes </th><td>M. Sol Bilyk</td></tr>
+      <tr><th scope="row">Sistema de Estudiantes con Spring Boot </th><td>Arturo Riera</td></tr>
+      <tr><th scope="row"> Tienda de Libros con SpringBoot y Swing</th><td>Juan Belich</td></tr>
+      <tr><th scope="row">To Do List </th><td>M. Sol Bilyk</td></tr>
+      <tr><th scope="row">PROYECTOS</th><td><b>JAVASCRIPT</td></tr>
+      <tr><th scope="row">E-commerce Básico</th><td>Juan Belich</td></tr> 
+      <tr><th scope="row">Pern Stack</th><td>Lautaro Ravanal</td></tr>
+      <tr><th scope="row">Aprendiendo NODE</th><td>M. Sol Bilyk</td></tr>
+      <tr><th scope="row">PROYECTOS</th><td align="center"><b>PYTHON</td></tr>
+      <tr><th scope="row">Juego_TUC</th><td>Lautaro Ravanal</td></tr>
+      <tr><th scope="row">Juego con PyGames</th><td>Arturo Riera</td></tr>
+      <tr><th scope="row">Profundizando en String</th><td>M. Sol Bilyk</td></tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+
 <br>
 
 <p align="left">
