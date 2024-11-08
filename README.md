@@ -123,9 +123,12 @@ A continuación dejamos una imagen donde se muestra el cronograma de trabajo, de
 
 En la siguiente imagen se puede observar la forma de trabajo:
 
-<img src="https://github.com/CodeStrong2023/TheUnknowns_3er_Semestre/blob/Final/Tabla%20de%20scrum%20master.png?raw=true">
 
- Para más información, ir al link de la wiki: 
+
+![image](https://github.com/user-attachments/assets/d00d578f-bc65-4661-bb48-b892e8e7dc6d)
+
+
+ Para más información, ir al link de la wiki:  https://github.com/CodeStrong2023/TheUnknowns_4to_Semestre/wiki
 
 Además, durante el cursado realizamos un juego llamado Avatar: La Leyenda de Aang, para el cual se puede ver la explicación del código en su página de la wiki: https://github.com/CodeStrong2023/TheUnknowns_3er_Semestre/wiki/Avatar-%E2%80%90-Juego
   
